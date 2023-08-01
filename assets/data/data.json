@@ -1,0 +1,254 @@
+[
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】尝鲜体验Flutter编写一个App应用",
+        "description": "三、项目搭建 1、已有文件说明 2、App入口说明及修改 3、App框架搭建 4、App页面搭建 四、项目页面效果展示 五、总结 六、资源 前言 欢迎参加腾讯云 Cloud Studio 实战训练营！在本次训练营中，我们将通过App项目...",
+        "read": "448",
+        "zan": "9",
+        "comment": "6",
+        "author": "杜轻尘",
+        "pushTime": "2023-07-28"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】基于Cloud Studio完成简易通讯录",
+        "description": "进入Cloud Studio 云端 IDE,可以通过两种方式创建工作空间,第一种方式:点击模板直接创建工作空间,第二种方式:单击【新建工作空间】,进入工作空间创建页面。 第一种方式点击模板创建工作空间,可自动生成工作空间名称,并运行模板的预置环境及...",
+        "read": "1766",
+        "zan": "95",
+        "comment": "158",
+        "author": "码银",
+        "pushTime": "2023-07-23"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】永不宕机的IDE，Coding Everywhere",
+        "description": "腾讯云 Cloud Studio 实战训练营是由腾讯云联合 CSDN 推出的系列开发者技术实践活动，通过**技术分享直播、动手实验项目、优秀代码评选、有奖征文活动**等，让广大开发者沉浸式体验腾讯云开发者工具 Cloud Studio 的...",
+        "read": "6904",
+        "zan": "6",
+        "comment": "5",
+        "author": "指剑",
+        "pushTime": "2023-07-31"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】通过云IDE构建Web3项目",
+        "description": "在使用腾讯云Cloud Studio时从环境搭建到运行整体感觉上还是很丝滑的,感觉收获颇多。在实践遇见的一些问题,小助手也会积极解答,通过对几次的CSDN的培训以及官方文档的学习,对CloudStudio有了很大的认识,真的是一个很不错的云IDE产品,在...",
+        "read": "55",
+        "zan": 0,
+        "comment": 0,
+        "author": "虎头金猫",
+        "pushTime": "2023-07-30"
+    },
+    {
+        "title": "【腾讯云Cloud Studio 实战训练营】深入解析Cloud Studio—React 快速构建点餐页面",
+        "description": "CloudStudio是一款功能强大、安全稳定、易于扩展、轻量级的云端IDE，可以帮助我们更好地管理和维护他们的代码。 如果需要高效、灵活开发，CloudStudio是一个值得尝试的工具。",
+        "read": "5792",
+        "zan": "88",
+        "comment": "139",
+        "author": "颜淡慕潇",
+        "pushTime": "2023-07-24"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】当我还在恐龙扛狼,隔壁IDE竟然已经卷成这样了",
+        "description": "上周很荣幸被邀请体验一款腾讯的新产品cloud studio,是一款在线ide,这个对于大家应该都不陌生,所谓在线ide无非就是把编译器从本地搬到了云端,跟近几年火起来的在线文档其实差不多一个逻辑,所以刚开始我对这个东西其实没抱期望,因为在git...",
+        "read": "50",
+        "zan": "1",
+        "comment": 0,
+        "author": "负债程序猿",
+        "pushTime": "2023-07-31"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】沉浸式体验编写一个博客系统",
+        "description": "腾讯云 Cloud Studio 实战训练营提供了沉浸式的体验，让你可以亲身参与博客系统的编写。在这个训练营中，你将学习如何利用腾讯云的云服务和开发工具来构建一个完整的博客系统。 通过 Cloud Studio，你可以使用云端...",
+        "read": "5314",
+        "zan": "130",
+        "comment": "209",
+        "author": "全栈若城",
+        "pushTime": "2023-07-24"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】Claude GPT+Cloud Studio快速完成Excel工资自动核算",
+        "description": "再次进入官网:https://wx.cloudstudio.net/dashboard/workspace 四、总结 在腾讯云 Cloud Studio 实战训练营中,我学习了如何利用Claude GPT和Cloud Studio快速完成Excel工资自动核算。通过这个训练营,我深入了解了如何利用人工智能技术来简化...",
+        "read": "94",
+        "zan": "1",
+        "comment": 0,
+        "author": "袁袁袁袁满",
+        "pushTime": "2023-07-28"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】如何轻松实现一个Springboot+Vue学生管理系统及我的使用感受",
+        "description": "在这个博客中,我将介绍如何使用Cloud Studio打造一个基于Spring Boot和Vue的学生管理系统。该系统旨在提供一个简单而功能丰富的平台,用于管理学生的信息和课程,并提供一系列功能来增强教育管理的效率和便捷性。 学生管理系统主要包括以下功能...",
+        "read": "321",
+        "zan": "10",
+        "comment": "7",
+        "author": "Maynor996",
+        "pushTime": "2023-07-21"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】使用Cloud Studio制作蛋仔派对兑换码工具",
+        "description": "Cloud Studio 是基于浏览器的集成式开发环境（IDE），为开发者提供了一个永不间断的云端工作站。用户在使用 Cloud Studio 时无需安装，随时随地打开浏览器就能在线编程。Cloud Studio 作为在线 IDE，包含代码高亮、...",
+        "read": "1299",
+        "zan": "80",
+        "comment": "107",
+        "author": "德宏大魔王(AI自动回关)",
+        "pushTime": "2023-07-21"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】丝滑体验：用 Cloud Studio 实现一个精确计时的时钟",
+        "description": "本项目来源于《腾讯云 Cloud Studio 实战训练营》的参赛作品，该作品在腾讯云 Cloud Studio 中运行无误。 开始体验 首先，需要创建你的账号。 由于 CODING 和 Cloud Studio 实现了账号互通，如果你有 CODING 的账号...",
+        "read": "136",
+        "zan": "16",
+        "comment": "23",
+        "author": "编程轨迹_",
+        "pushTime": "2023-07-21"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】使用Cloud Studio&Flutter完成全平台博客网站的搭建",
+        "description": "本文我将使用Cloud Studio 以及Flutter完成自己的一个博客平台的搭建。并且会将该项目作为模版，供大家使用。先来看一下效果工作空间是我们主要的工作区域，主要由顶部菜单栏、左侧操作面板、右侧代码编辑区和底部...",
+        "read": "9787",
+        "zan": "33",
+        "comment": "53",
+        "author": "坚果的博客",
+        "pushTime": "2023-07-24"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】构建基于React的实时聊天应用",
+        "description": "关于腾讯云 Cloud Studio 构建基于 Cloud Studio 的聊天应用（项目实战） 1. 注册并登录 Cloud Studio 2. 配置 Git 环境 2.1 复制 SSH 公钥 2.2 添加 SSH 公钥至 GIt 平台 3. 创建项目 4. 项目开发 4.1 安装依赖 4.2...",
+        "read": "4989",
+        "zan": "98",
+        "comment": "163",
+        "author": "马马马码说",
+        "pushTime": "2023-07-26"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】CloudStudio体验真正的现代化开发方式，双手插兜不知道什么叫对手！",
+        "description": "总结 参考文献 前言 最近有幸参与了腾讯云举办的 腾讯云 Cloud Studio 实战训练营。在这个过程中，通过了解 Cloud Studio 的产品和实践，让我受益非浅，原来还可以这样开发！ 也让我真正理解了这一产品所带来的意义...",
+        "read": "7778",
+        "zan": "54",
+        "comment": "79",
+        "author": "憧憬blog",
+        "pushTime": "2023-07-28"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】在Cloud Studio上使用React实现学生管理系统",
+        "description": "3）项目地址 上面分享的项目代码我也发布到了我的gitee仓库中，代码仓库地址为： https://gitee.com/qu-niao/quniaoStudentManage 该项目也参与了《腾讯云Cloud Studio 实战训练营》的优秀代码评选比赛，小伙伴们也...",
+        "read": "642",
+        "zan": "32",
+        "comment": "21",
+        "author": "曲鸟",
+        "pushTime": "2023-07-27"
+    },
+    {
+        "title": "【腾讯云 Cloud studio 实战训练营】真正做到让你的开发成本只在编码",
+        "description": "文章目录 写在前面 CODING Cloud studio工具 在线编码 运行项目 代码上传 Cloud Studio 开发贪吃蛇 写在最后 写在前面 期待已久的体验活动终于来了，Clound Studio用了才知道有多爽，Cloud Studio 是基于浏览器的...",
+        "read": "742",
+        "zan": "127",
+        "comment": "107",
+        "author": "几何心凉",
+        "pushTime": "2023-07-20"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】体验搭建软件系统，无经验也能做开发",
+        "description": "腾讯云还与 CODING 联合推出的一站式云 IDE——Cloud Studio。我们将探讨云 IDE 的优势、特点以及体验，同时使用 Cloud Studio 快速搭建一个移动端 H5 页面，深入感受云 IDE 给我们带来的便利。 IDE 解放开发者的...",
+        "read": "291",
+        "zan": "51",
+        "comment": "98",
+        "author": "Swift社区",
+        "pushTime": "2023-07-31"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】Cloud Studio实现健康上报小程序（代码开源）",
+        "description": "Cloud Studio 是基于浏览器的集成式开发环境（IDE），为开发者提供了一个永不间断的云端工作站。用户在使用 Cloud Studio 时无需安装，随时随地打开浏览器就能在线编程。Cloud Studio 作为在线 IDE，包含代码高亮、...",
+        "read": "834",
+        "zan": "63",
+        "comment": "67",
+        "author": "德宏大魔王(AI自动回关)",
+        "pushTime": "2023-07-22"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】使用python-flask搭建自助售卖机实操",
+        "description": "前言 各位小伙伴，欢迎来到Cloud Studio实战训练营！ Cloud Studio是一个基于浏览器的集成式开发环境（IDE），提供了一个无需安装的云端工作站。用户可以随时随地打开浏览器，在线进行编程。 使用Cloud Studio，...",
+        "read": "217",
+        "zan": "6",
+        "comment": "11",
+        "author": "大师兄6668",
+        "pushTime": "2023-07-27"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】使用Cloud Studio快速构建Vue+Vite完成律师H5页面还原",
+        "description": "无服务器计算由云平台统一管理后端服务及资源，避免了开发过程中繁琐的集群搭建及系统运维工作。...腾讯云 Cloud Studio 是一款基于浏览器的云端开发环境，旨在为开发者提供便捷、高效的开发体验。",
+        "read": "17",
+        "zan": "1",
+        "comment": 0,
+        "author": "桃花键神",
+        "pushTime": "2023-07-25"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】使用Cloud Studio迅捷开发一个3D家具个性化定制应用",
+        "description": "Cloud Studio是一个基于云端的开发环境，它可以让程序员在云端进行编写和运行程序。相比传统的本地IDE，Cloud Studio具有以下优势。首先，由于Cloud Studio是基于云端的，只要保证网络连接正常，即使使用配置较低的...",
+        "read": "516",
+        "zan": "29",
+        "comment": "48",
+        "author": "国服第二切图仔",
+        "pushTime": "2023-07-29"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】Cloud Studio 快速搭建学习分享",
+        "description": "一、Cloud Studio 1.1、Cloud Studio是什么 云 IDE Cloud Studio 作为腾讯云出品的一款在线云端开发工具，它可以帮助用户减少安装 IDE 的成本，提供在线代码开发、编译、运行、存储的一站式服务。 基于 Web 端的...",
+        "read": "466",
+        "zan": "30",
+        "comment": "23",
+        "author": "小虚竹",
+        "pushTime": "2023-07-30"
+    },
+    {
+        "title": "【腾讯云 Cloud studio 实战训练营】搭建Next框架博客——抛开电脑性能在云端编程(沉浸式体验)",
+        "description": "因为cloud studio和vscode底层的Electron框架有着异曲同工之妙 ⭐进入cloud studio工作区指引 链接直达： https://coding.net/products/cloudstudio 版本记录内容清晰，开发生态良好 注册coding账号 首选腾讯云账号...",
+        "read": "1470",
+        "zan": "4",
+        "comment": "5",
+        "author": "yma16",
+        "pushTime": "2023-07-30"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】Redisgo_task 分布式锁实现",
+        "description": "腾讯云 Cloud Studio 官网地址：https://wx.cloudstudio.net/dashboard/workspace 在现阶段提供的模版中，存在 30+ 的初始模版，包含 框架模板、云原生模板、建站模板 多种代码库。在功能完全对齐传统的 IDE 模式的...",
+        "read": "55",
+        "zan": "1",
+        "comment": 0,
+        "author": "魏小言",
+        "pushTime": "2023-07-31"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】Claude GPT+Cloud Studio快速完成Excel工资自动核算",
+        "description": "最后给腾讯云 Cloud Studio提一个小小的建议，可以考虑将GPT-3.5或类似的自然语言处理模型集成到Cloud Studio中，使开发者能够通过自然语言进行代码编写、调试和项目管理等操作，也就不需要像本次实验还需要用到...",
+        "read": "2822",
+        "zan": "46",
+        "comment": "80",
+        "author": "艾派森",
+        "pushTime": "2023-07-29"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】全新的开发习惯养成方式，至——后代开发者们",
+        "description": "这次是有幸参加了 CSDN 与腾讯云联合组织的活动——【腾讯云 Cloud Studio 实战训练营】 体验了几天，活动无坑，Cloud Studio 产品免费白嫖，可以放心冲！！！（当你的账号没有额度的时候，可以退出账号，在未登陆...",
+        "read": "7131",
+        "zan": "18",
+        "comment": "23",
+        "author": "Lolita...",
+        "pushTime": "2023-07-25"
+    },
+    {
+        "title": "【腾讯云Cloud Studio实战训练营】Cloud Studio + iPad，让代码之舞飞扬在指尖",
+        "description": "似乎CODING也是腾讯的了，那用这个平台登录Cloud Studio理所应当。 MetaWork 协作，摸鱼变得不再轻松 Cloud Studio 云端 IDE 推出最新套件 MetaWork ，通过开启项目工作空间的协作模式，开发人员之间的工作能够通过...",
+        "read": "1138",
+        "zan": "22",
+        "comment": "34",
+        "author": "ezeroyoung",
+        "pushTime": "2023-07-24"
+    },
+    {
+        "title": "【腾讯云 Cloud Studio 实战训练营】全新的开发方式，让你实现一站式开发",
+        "description": "集成云服务 Cloud Studio直接集成了腾讯云的各种服务,如对象存储、数据库、容器服务等。用户可以直接使用这些云服务,无需自己部署。 协同开发 Cloud Studio支持多人协同开发,用户可以邀请其他开发者加入项目进行...",
+        "read": "642",
+        "zan": "11",
+        "comment": "19",
+        "author": "Sheffi66",
+        "pushTime": "2023-07-27"
+    }
+]
