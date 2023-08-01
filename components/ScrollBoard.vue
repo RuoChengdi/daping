@@ -1,6 +1,6 @@
 <template>
      <div class="center">
-        <dv-scroll-board :config="config" style="width:1059px;height:180px" />
+        <dv-scroll-board :config="config" style="width:75vw;height:100%" />
      </div>
 </template>
 <script>
